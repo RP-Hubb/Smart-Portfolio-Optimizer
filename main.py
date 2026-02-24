@@ -49,3 +49,4 @@ for ticker, weight in zip(TICKERS, optimal['min_volatility']['weights']):
     print(f"  {ticker}: {weight:.2%}")
 
 plt.show()
+
