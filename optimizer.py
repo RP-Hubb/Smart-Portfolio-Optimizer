@@ -60,3 +60,4 @@ class PortfolioOptimizer:
                 'weights': results['weights'][min_vol_idx]
             }
         }
+
