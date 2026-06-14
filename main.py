@@ -6,7 +6,7 @@ from optimizer import PortfolioOptimizer
 # User configuration
 TICKERS = ['AAPL', 'MSFT', 'GOOGL', 'AMZN', 'META']
 START_DATE = '2020-01-01'
-END_DATE = '2025-01-01'
+END_DATE = '2026-01-01'
 RISK_FREE_RATE = 0.01
 NUM_PORTFOLIOS = 10000
 
